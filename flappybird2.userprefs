@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\addscore.cs">
+    <Files>
+      <File FileName="Assets\scripts\bird.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pipecreate.cs" Line="8" Column="18" />
+      <File FileName="Assets\scripts\gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\addscore.cs" Line="14" Column="28" />
+      <File FileName="Assets\scripts\Score.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
